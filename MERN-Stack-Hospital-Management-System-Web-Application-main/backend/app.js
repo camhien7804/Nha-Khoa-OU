@@ -26,8 +26,9 @@ const app = express();
 const allowedOrigins = [
   process.env.FRONTEND_URL_ONE || "http://localhost:5173",
   process.env.FRONTEND_URL_TWO || "http://localhost:3000",
-  "https://dental-clinic-5gnk.onrender.com"  
+  process.env.FRONTEND_URL_RENDER || "https://nha-khoa-ou.onrender.com"
 ];
+
 
 const corsOptions = {
   origin: function (origin, callback) {
@@ -78,5 +79,17 @@ app.use("/api/v1/payment", paymentRoutes);
 
 // error handler (must be last)
 app.use(errorMiddleware);
+
+// serve frontend build khi deploy
+if (process.env.NODE_ENV === "production") {
+  const __dirname = path.resolve();
+  const frontendPath = path.join(__dirname, "MERN-Stack-Hospital-Management-System-Web-Application-main/frontend/dist");
+
+  app.use(express.static(frontendPath));
+
+  app.get("*", (req, res) => {
+    res.sendFile(path.resolve(frontendPath, "index.html"));
+  });
+}
 
 export default app;
