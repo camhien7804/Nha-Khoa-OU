@@ -1,0 +1,978 @@
+[
+  {
+    "vi": "Xem chi tiết",
+    "count": 49,
+    "en": "View details"
+  },
+  {
+    "vi": "Liệu trình",
+    "count": 48,
+    "en": "Treatment plan"
+  },
+  {
+    "vi": "Đặt lịch",
+    "count": 36,
+    "en": "Book appointment"
+  },
+  {
+    "vi": "Chi tiết",
+    "count": 32,
+    "en": "Details"
+  },
+  {
+    "vi": "Nha khoa tổng quát",
+    "count": 28,
+    "en": "General dentistry"
+  },
+  {
+    "vi": "Trồng răng Implant",
+    "count": 24,
+    "en": "Dental Implant"
+  },
+  {
+    "vi": "Niềng răng",
+    "count": 24,
+    "en": "Braces"
+  },
+  {
+    "vi": "Trang chủ > Dịch vụ >",
+    "count": 20,
+    "en": "Home > Services >"
+  },
+  {
+    "vi": "Nội dung",
+    "count": 20,
+    "en": "Content"
+  },
+  {
+    "vi": "Giá dịch vụ",
+    "count": 20,
+    "en": "Service price"
+  },
+  {
+    "vi": "Đơn vị:",
+    "count": 20,
+    "en": "Unit:"
+  },
+  {
+    "vi": "Dịch vụ:",
+    "count": 20,
+    "en": "Service:"
+  },
+  {
+    "vi": "📞 Gọi ngay (Tư vấn miễn phí)",
+    "count": 20,
+    "en": "📞 Call now (Free consultation)"
+  },
+  {
+    "vi": "📅 Đặt lịch ngay",
+    "count": 20,
+    "en": "📅 Book now"
+  },
+  {
+    "vi": "Giảm",
+    "count": 16,
+    "en": "Discount"
+  },
+  {
+    "vi": "Bác sĩ",
+    "count": 13,
+    "en": "Doctor"
+  },
+  {
+    "vi": "8/9/2025",
+    "count": 12,
+    "en": "8/9/2025"
+  },
+  {
+    "vi": "Xem chi tiết →",
+    "count": 11,
+    "en": "View details →"
+  },
+  {
+    "vi": "Trang chủ",
+    "count": 10,
+    "en": "Home"
+  },
+  {
+    "vi": "Nha khoa trẻ em",
+    "count": 9,
+    "en": "Pediatric dentistry"
+  },
+  {
+    "vi": "Dịch vụ",
+    "count": 9,
+    "en": "Services"
+  },
+  {
+    "vi": "200.000đ – 200.000đ",
+    "count": 8,
+    "en": "200,000 VND – 200,000 VND"
+  },
+  {
+    "vi": "trẻ em",
+    "count": 8,
+    "en": "children"
+  },
+  {
+    "vi": "implant",
+    "count": 7,
+    "en": "implant"
+  },
+  {
+    "vi": "niềng răng",
+    "count": 6,
+    "en": "braces"
+  },
+  {
+    "vi": "tổng quát",
+    "count": 6,
+    "en": "general"
+  },
+  {
+    "vi": "Mỹ Lan Phạm",
+    "count": 5,
+    "en": "Mỹ Lan Phạm"
+  },
+  {
+    "vi": "500.000đ – 500.000đ",
+    "count": 5,
+    "en": "500,000 VND – 500,000 VND"
+  },
+  {
+    "vi": "1.500.000đ – 2.500.000đ",
+    "count": 5,
+    "en": "1,500,000 VND – 2,500,000 VND"
+  },
+  {
+    "vi": "Tất cả",
+    "count": 5,
+    "en": "All"
+  },
+  {
+    "vi": "Bảng giá nha khoa",
+    "count": 4,
+    "en": "Dental price list"
+  },
+  {
+    "vi": "Bảng giá dịch vụ làm răng mới nhất 2025",
+    "count": 4,
+    "en": "Latest dental service price list 2025"
+  },
+  {
+    "vi": "Chọn dịch vụ:",
+    "count": 4,
+    "en": "Choose service:"
+  },
+  {
+    "vi": "Giá",
+    "count": 4,
+    "en": "Price"
+  },
+  {
+    "vi": "Đơn vị tính",
+    "count": 4,
+    "en": "Unit of measure"
+  },
+  {
+    "vi": "10",
+    "count": 4,
+    "en": "10"
+  },
+  {
+    "vi": "🔥 Khuyến mãi",
+    "count": 4,
+    "en": "🔥 Promotion"
+  },
+  {
+    "vi": "Bán chạy",
+    "count": 4,
+    "en": "Best seller"
+  },
+  {
+    "vi": "Giá ↑",
+    "count": 4,
+    "en": "Price ↑"
+  },
+  {
+    "vi": "Giá ↓",
+    "count": 4,
+    "en": "Price ↓"
+  },
+  {
+    "vi": "Tốt nghiệp Thủ khoa, khoa Răng Hàm Mặt – Đại học Y Dược Cần Thơ.",
+    "count": 3,
+    "en": "Graduated valedictorian, Faculty of Odonto-Stomatology – Can Tho University of Medicine and Pharmacy."
+  },
+  {
+    "vi": "Chứng chỉ phẫu thuật Implant xâm lấn tối thiểu với NobelActive và On 1 – Bệnh viện Răng Hàm Mặt TP.HCM.",
+    "count": 3,
+    "en": "Certificate in minimally invasive Implant surgery with NobelActive and On 1 – HCMC Odonto-Stomatology Hospital."
+  },
+  {
+    "vi": "Chứng chỉ cấy ghép nha khoa nâng cao: phẫu thuật ghép xương và nâng xoang – Đại học Y Hà Nội.",
+    "count": 3,
+    "en": "Advanced dental implant certificate: bone graft and sinus lift surgery – Hanoi Medical University."
+  },
+  {
+    "vi": "500.000đ",
+    "count": 3,
+    "en": "500,000 VND"
+  },
+  {
+    "vi": "Tư vấn chỉnh nha",
+    "count": 3,
+    "en": "Orthodontic consultation"
+  },
+  {
+    "vi": "Implant All-on-4",
+    "count": 3,
+    "en": "Implant All-on-4"
+  },
+  {
+    "vi": "80.000.000đ – 120.000.000đ",
+    "count": 3,
+    "en": "80,000,000 VND – 120,000,000 VND"
+  },
+  {
+    "vi": "Cấy ghép mini Implant",
+    "count": 3,
+    "en": "Mini dental implant"
+  },
+  {
+    "vi": "Ghép xương khi cấy Implant",
+    "count": 3,
+    "en": "Bone grafting when placing Implant"
+  },
+  {
+    "vi": "5.000.000đ – 10.000.000đ",
+    "count": 3,
+    "en": "5,000,000 VND – 10,000,000 VND"
+  },
+  {
+    "vi": "Implant tức thì sau nhổ răng",
+    "count": 3,
+    "en": "Immediate implant after extraction"
+  },
+  {
+    "vi": "20.000.000đ – 25.000.000đ",
+    "count": 3,
+    "en": "20,000,000 VND – 25,000,000 VND"
+  },
+  {
+    "vi": "Trồng răng Implant đơn lẻ",
+    "count": 3,
+    "en": "Single dental implant"
+  },
+  {
+    "vi": "15.000.000đ – 15.000.000đ",
+    "count": 3,
+    "en": "15,000,000 VND – 15,000,000 VND"
+  },
+  {
+    "vi": "Niềng răng mini vít",
+    "count": 3,
+    "en": "Braces with mini-screw"
+  },
+  {
+    "vi": "10.000.000đ – 20.000.000đ",
+    "count": 3,
+    "en": "10,000,000 VND – 20,000,000 VND"
+  },
+  {
+    "vi": "Niềng răng tháo lắp",
+    "count": 3,
+    "en": "Removable braces"
+  },
+  {
+    "vi": "15.000.000đ – 25.000.000đ",
+    "count": 3,
+    "en": "15,000,000 VND – 25,000,000 VND"
+  },
+  {
+    "vi": "Niềng răng mặt trong",
+    "count": 3,
+    "en": "Lingual braces"
+  },
+  {
+    "vi": "80.000.000đ – 100.000.000đ",
+    "count": 3,
+    "en": "80,000,000 VND – 100,000,000 VND"
+  },
+  {
+    "vi": "Niềng răng trong suốt Invisalign",
+    "count": 3,
+    "en": "Invisalign clear braces"
+  },
+  {
+    "vi": "Niềng răng sứ",
+    "count": 3,
+    "en": "Ceramic braces"
+  },
+  {
+    "vi": "40.000.000đ – 50.000.000đ",
+    "count": 3,
+    "en": "40,000,000 VND – 50,000,000 VND"
+  },
+  {
+    "vi": "Niềng răng kim loại",
+    "count": 3,
+    "en": "Metal braces"
+  },
+  {
+    "vi": "30.000.000đ – 40.000.000đ",
+    "count": 3,
+    "en": "30,000,000 VND – 40,000,000 VND"
+  },
+  {
+    "vi": "Nhổ răng khôn hàm dưới",
+    "count": 3,
+    "en": "Lower wisdom tooth extraction"
+  },
+  {
+    "vi": "Khám kiểm tra định kỳ",
+    "count": 3,
+    "en": "Routine check-up"
+  },
+  {
+    "vi": "Nhổ răng khôn",
+    "count": 3,
+    "en": "Wisdom tooth extraction"
+  },
+  {
+    "vi": "1.500.000đ – 3.000.000đ",
+    "count": 3,
+    "en": "1,500,000 VND – 3,000,000 VND"
+  },
+  {
+    "vi": "Nhổ răng thường",
+    "count": 3,
+    "en": "Normal tooth extraction"
+  },
+  {
+    "vi": "Chữa tủy",
+    "count": 3,
+    "en": "Root canal treatment"
+  },
+  {
+    "vi": "Trám răng",
+    "count": 3,
+    "en": "Tooth filling"
+  },
+  {
+    "vi": "500.000đ – 700.000đ",
+    "count": 3,
+    "en": "500,000 VND – 700,000 VND"
+  },
+  {
+    "vi": "Lấy cao răng",
+    "count": 3,
+    "en": "Tartar removal"
+  },
+  {
+    "vi": "300.000đ – 300.000đ",
+    "count": 3,
+    "en": "300,000 VND – 300,000 VND"
+  },
+  {
+    "vi": "Khám tổng quát",
+    "count": 3,
+    "en": "General check-up"
+  },
+  {
+    "vi": "khám",
+    "count": 3,
+    "en": "examination"
+  },
+  {
+    "vi": "Chế độ ăn uống sau khi cấy Implant",
+    "count": 3,
+    "en": "Diet after implant placement"
+  },
+  {
+    "vi": "Đăng nhập",
+    "count": 2,
+    "en": "Login"
+  },
+  {
+    "vi": "Trồng răng Implant tiêu chuẩn",
+    "count": 2,
+    "en": "Standard dental implant"
+  },
+  {
+    "vi": "20.400.000đ – 22.950.000đ",
+    "count": 2,
+    "en": "20,400,000 VND – 22,950,000 VND"
+  },
+  {
+    "vi": "24.000.000đ – 27.000.000đ",
+    "count": 2,
+    "en": "24,000,000 VND – 27,000,000 VND"
+  },
+  {
+    "vi": "Niềng răng Invisalign (khay trong)",
+    "count": 2,
+    "en": "Invisalign aligners"
+  },
+  {
+    "vi": "63.000.000đ – 108.000.000đ",
+    "count": 2,
+    "en": "63,000,000 VND – 108,000,000 VND"
+  },
+  {
+    "vi": "70.000.000đ – 120.000.000đ",
+    "count": 2,
+    "en": "70,000,000 VND – 120,000,000 VND"
+  },
+  {
+    "vi": "Trước điều trị",
+    "count": 2,
+    "en": "Before treatment"
+  },
+  {
+    "vi": "Sau điều trị",
+    "count": 2,
+    "en": "After treatment"
+  },
+  {
+    "vi": "Đội ngũ bác sĩ",
+    "count": 2,
+    "en": "Our doctors"
+  },
+  {
+    "vi": "Lê Minh Tài",
+    "count": 2,
+    "en": "Lê Minh Tài"
+  },
+  {
+    "vi": "Chuyên sâu Implant – Phục hình sứ thẩm mỹ.",
+    "count": 2,
+    "en": "Specialist in Implant – Aesthetic prosthetics."
+  },
+  {
+    "vi": "Kinh nghiệm 10+ năm điều trị.",
+    "count": 2,
+    "en": "10+ years of treatment experience."
+  },
+  {
+    "vi": "Mai Thu Ngọc",
+    "count": 2,
+    "en": "Mai Thu Ngọc"
+  },
+  {
+    "vi": "Chỉnh nha – Invisalign.",
+    "count": 2,
+    "en": "Orthodontics – Invisalign."
+  },
+  {
+    "vi": "Tốt nghiệp ĐH Y Dược.",
+    "count": 2,
+    "en": "Graduated from University of Medicine and Pharmacy."
+  },
+  {
+    "vi": "Chứng chỉ chỉnh hình răng mặt – Đại học Y Hà Nội.",
+    "count": 2,
+    "en": "Certificate in orthodontics – Hanoi Medical University."
+  },
+  {
+    "vi": "Chứng chỉ kiểm soát nhiễm khuẩn bệnh viện – Đại học Y Hà Nội.",
+    "count": 2,
+    "en": "Certificate in hospital infection control – Hanoi Medical University."
+  },
+  {
+    "vi": "495.000đ",
+    "count": 2,
+    "en": "495,000 VND"
+  },
+  {
+    "vi": "1.500.000đ",
+    "count": 2,
+    "en": "1,500,000 VND"
+  },
+  {
+    "vi": "Trồng răng Implant toàn hàm",
+    "count": 2,
+    "en": "Full-arch dental implant"
+  },
+  {
+    "vi": "495.000đ – 495.000đ",
+    "count": 2,
+    "en": "495,000 VND – 495,000 VND"
+  },
+  {
+    "vi": "9.100.000đ – 13.650.000đ",
+    "count": 2,
+    "en": "9,100,000 VND – 13,650,000 VND"
+  },
+  {
+    "vi": "10.000.000đ – 15.000.000đ",
+    "count": 2,
+    "en": "10,000,000 VND – 15,000,000 VND"
+  },
+  {
+    "vi": "54.600.000đ – 81.900.000đ",
+    "count": 2,
+    "en": "54,600,000 VND – 81,900,000 VND"
+  },
+  {
+    "vi": "60.000.000đ – 90.000.000đ",
+    "count": 2,
+    "en": "60,000,000 VND – 90,000,000 VND"
+  },
+  {
+    "vi": "1.425.000đ – 2.375.000đ",
+    "count": 2,
+    "en": "1,425,000 VND – 2,375,000 VND"
+  },
+  {
+    "vi": "Đeo hàm giữ khoảng",
+    "count": 2,
+    "en": "Space maintainer"
+  },
+  {
+    "vi": "3.000.000đ – 5.000.000đ",
+    "count": 2,
+    "en": "3,000,000 VND – 5,000,000 VND"
+  },
+  {
+    "vi": "Điều trị tủy răng sữa",
+    "count": 2,
+    "en": "Primary tooth root canal treatment"
+  },
+  {
+    "vi": "800.000đ – 1.200.000đ",
+    "count": 2,
+    "en": "800,000 VND – 1,200,000 VND"
+  },
+  {
+    "vi": "Hàn trám thẩm mỹ cho trẻ",
+    "count": 2,
+    "en": "Cosmetic filling for children"
+  },
+  {
+    "vi": "500.000đ – 800.000đ",
+    "count": 2,
+    "en": "500,000 VND – 800,000 VND"
+  },
+  {
+    "vi": "Fluoride chống sâu răng",
+    "count": 2,
+    "en": "Fluoride to prevent cavities"
+  },
+  {
+    "vi": "400.000đ – 600.000đ",
+    "count": 2,
+    "en": "400,000 VND – 600,000 VND"
+  },
+  {
+    "vi": "Khám nha khoa trẻ em",
+    "count": 2,
+    "en": "Pediatric dental check-up"
+  },
+  {
+    "vi": "Nhổ răng sữa",
+    "count": 2,
+    "en": "Baby tooth extraction"
+  },
+  {
+    "vi": "200.000đ – 500.000đ",
+    "count": 2,
+    "en": "200,000 VND – 500,000 VND"
+  },
+  {
+    "vi": "Trám răng sữa",
+    "count": 2,
+    "en": "Baby tooth filling"
+  },
+  {
+    "vi": "nhổ răng",
+    "count": 2,
+    "en": "tooth extraction"
+  },
+  {
+    "vi": "trám răng",
+    "count": 2,
+    "en": "tooth filling"
+  },
+  {
+    "vi": "Email",
+    "count": 2,
+    "en": "Email"
+  },
+  {
+    "vi": "Ghi chú",
+    "count": 2,
+    "en": "Note"
+  },
+  {
+    "vi": "Mật khẩu",
+    "count": 1,
+    "en": "Password"
+  },
+  {
+    "vi": "Quên mật khẩu?",
+    "count": 1,
+    "en": "Forgot password?"
+  },
+  {
+    "vi": "Đăng ký",
+    "count": 1,
+    "en": "Register"
+  },
+  {
+    "vi": "Ưu đãi mới nhất",
+    "count": 1,
+    "en": "Latest offers"
+  },
+  {
+    "vi": "Đặt lịch hẹn",
+    "count": 1,
+    "en": "Book appointment"
+  },
+  {
+    "vi": "Tìm bác sĩ",
+    "count": 1,
+    "en": "Find a doctor"
+  },
+  {
+    "vi": "Phòng khám",
+    "count": 1,
+    "en": "Clinic"
+  },
+  {
+    "vi": "Kiến thức",
+    "count": 1,
+    "en": "Knowledge"
+  },
+  {
+    "vi": "📅 Đặt lịch",
+    "count": 1,
+    "en": "📅 Book appointment"
+  },
+  {
+    "vi": "Chăm sóc sức khỏe răng miệng toàn diện",
+    "count": 1,
+    "en": "Comprehensive oral health care"
+  },
+  {
+    "vi": "Trụ Implant Straumann BLT SLActive",
+    "count": 1,
+    "en": "Straumann BLT SLActive Implant"
+  },
+  {
+    "vi": "Phục hình All-on-4 (toàn cung)",
+    "count": 1,
+    "en": "All-on-4 full-arch prosthetics"
+  },
+  {
+    "vi": "Niềng răng mắc cài kim loại",
+    "count": 1,
+    "en": "Metal braces"
+  },
+  {
+    "vi": "Niềng răng mắc cài sứ",
+    "count": 1,
+    "en": "Ceramic braces"
+  },
+  {
+    "vi": "Trám răng thẩm mỹ",
+    "count": 1,
+    "en": "Cosmetic tooth filling"
+  },
+  {
+    "vi": "Lấy cao răng – đánh bóng",
+    "count": 1,
+    "en": "Scaling & polishing"
+  },
+  {
+    "vi": "Dịch vụ được yêu thích",
+    "count": 1,
+    "en": "Popular service"
+  },
+  {
+    "vi": "Tẩy trắng răng",
+    "count": 1,
+    "en": "Teeth whitening"
+  },
+  {
+    "vi": "Tự hào thương hiệu",
+    "count": 1,
+    "en": "Brand pride"
+  },
+  {
+    "vi": "Đạt chuẩn Red Diamond, 1000+ ca Implant/niềng mỗi năm, công nghệ số hoá toàn diện.",
+    "count": 1,
+    "en": "Certified Red Diamond, 1000+ implant/orthodontic cases yearly, fully digitalized technology."
+  },
+  {
+    "vi": "Xem tất cả bác sĩ",
+    "count": 1,
+    "en": "View all doctors"
+  },
+  {
+    "vi": "Trước & Sau điều trị",
+    "count": 1,
+    "en": "Before & After treatment"
+  },
+  {
+    "vi": "Ca chỉnh nha 18 tháng",
+    "count": 1,
+    "en": "18-month orthodontic case"
+  },
+  {
+    "vi": "Phục hình Implant",
+    "count": 1,
+    "en": "Implant prosthetics"
+  },
+  {
+    "vi": "Nha khoa thẩm mỹ – phục hình sứ.",
+    "count": 1,
+    "en": "Cosmetic dentistry – porcelain prosthetics."
+  },
+  {
+    "vi": "Kinh nghiệm lâm sàng 8+ năm.",
+    "count": 1,
+    "en": "8+ years of clinical experience."
+  },
+  {
+    "vi": "Ngành Răng Hàm Mặt – Đại học Y Dược Huế.",
+    "count": 1,
+    "en": "Dentistry – Hue University of Medicine and Pharmacy."
+  },
+  {
+    "vi": "Chứng chỉ chỉnh hình răng mặt – ĐH Y Dược Hà Nội.",
+    "count": 1,
+    "en": "Orthodontics certificate – Hanoi Medical University."
+  },
+  {
+    "vi": "Chuyên môn khu vực – Mảng chỉnh nha.",
+    "count": 1,
+    "en": "Regional expertise – Orthodontics."
+  },
+  {
+    "vi": "Chứng chỉ MSC, Cert Spec Orthodontist (Đức 2014).",
+    "count": 1,
+    "en": "MSC Certificate, Certified Specialist Orthodontist (Germany 2014)."
+  },
+  {
+    "vi": "Bác sĩ chuyên ngành Răng Hàm Mặt – ĐH Y Dược Huế.",
+    "count": 1,
+    "en": "Dentist specialized in Odonto-Stomatology – Hue University of Medicine and Pharmacy."
+  },
+  {
+    "vi": "Chứng chỉ chỉnh hình răng mặt cơ bản – BV TW Huế.",
+    "count": 1,
+    "en": "Basic orthodontics certificate – Hue Central Hospital."
+  },
+  {
+    "vi": "Thông tin bác sĩ",
+    "count": 1,
+    "en": "Doctor information"
+  },
+  {
+    "vi": "Họ và tên:",
+    "count": 1,
+    "en": "Full name:"
+  },
+  {
+    "vi": "Khu vực:",
+    "count": 1,
+    "en": "Region:"
+  },
+  {
+    "vi": "Miền Nam",
+    "count": 1,
+    "en": "Southern region"
+  },
+  {
+    "vi": "Chức danh:",
+    "count": 1,
+    "en": "Title:"
+  },
+  {
+    "vi": "Các chứng chỉ/kinh nghiệm:",
+    "count": 1,
+    "en": "Certificates/Experience:"
+  },
+  {
+    "vi": "Chứng chỉ cấy ghép nha khoa – Đại học Y Dược TP.HCM.",
+    "count": 1,
+    "en": "Dental implant certificate – HCMC University of Medicine and Pharmacy."
+  },
+  {
+    "vi": "Chứng chỉ an toàn bức xạ bổ sung cho người phụ trách an toàn – Công ty cổ phần tư vấn kỹ thuật khoa học công nghệ – STec.",
+    "count": 1,
+    "en": "Radiation safety certificate for safety managers – STec Technology Consulting JSC."
+  },
+  {
+    "vi": "Niềng răng kết hợp đặt mini vít hỗ trợ di chuyển răng.",
+    "count": 1,
+    "en": "Braces combined with mini-screw for tooth movement."
+  },
+  {
+    "vi": "Niềng răng tháo lắp dành cho trẻ em.",
+    "count": 1,
+    "en": "Removable braces for children."
+  },
+  {
+    "vi": "Niềng răng mắc cài mặt trong, kín đáo.",
+    "count": 1,
+    "en": "Lingual braces – discreet."
+  },
+  {
+    "vi": "Niềng răng trong suốt Invisalign thẩm mỹ cao.",
+    "count": 1,
+    "en": "Invisalign clear aligners – highly aesthetic."
+  },
+  {
+    "vi": "Niềng răng bằng mắc cài sứ thẩm mỹ.",
+    "count": 1,
+    "en": "Ceramic braces – aesthetic option."
+  },
+  {
+    "vi": "Niềng răng mắc cài kim loại truyền thống.",
+    "count": 1,
+    "en": "Traditional metal braces."
+  },
+  {
+    "vi": "Khám và tư vấn kế hoạch chỉnh nha.",
+    "count": 1,
+    "en": "Consultation and orthodontic treatment planning."
+  },
+  {
+    "vi": "Cấy 4 trụ Implant phục hình nguyên hàm.",
+    "count": 1,
+    "en": "4-implant full-arch restoration."
+  },
+  {
+    "vi": "Giải pháp Implant mini dành cho răng nhỏ.",
+    "count": 1,
+    "en": "Mini implant solution for small teeth."
+  },
+  {
+    "vi": "Bổ sung xương hàm để cấy Implant thành công.",
+    "count": 1,
+    "en": "Bone grafting for successful implant placement."
+  },
+  {
+    "vi": "Cấy Implant ngay sau khi nhổ răng.",
+    "count": 1,
+    "en": "Immediate implant placement after extraction."
+  },
+  {
+    "vi": "Cấy 1 trụ Implant thay thế răng đã mất.",
+    "count": 1,
+    "en": "Single implant for missing tooth replacement."
+  },
+  {
+    "vi": "NHỔ RĂNG SỐ 8",
+    "count": 1,
+    "en": "WISDOM TOOTH EXTRACTION"
+  },
+  {
+    "vi": "Khám định kỳ và tư vấn chăm sóc răng miệng.",
+    "count": 1,
+    "en": "Routine check-up and oral care consultation."
+  },
+  {
+    "vi": "Nhổ răng khôn mọc lệch/ngầm.",
+    "count": 1,
+    "en": "Impacted wisdom tooth extraction."
+  },
+  {
+    "vi": "Nhổ răng thường an toàn, nhanh chóng.",
+    "count": 1,
+    "en": "Regular tooth extraction – safe and quick."
+  },
+  {
+    "vi": "Điều trị viêm tủy, giữ lại răng thật.",
+    "count": 1,
+    "en": "Pulpitis treatment, preserving natural teeth."
+  },
+  {
+    "vi": "Trám răng điều trị sâu, phục hồi thẩm mỹ.",
+    "count": 1,
+    "en": "Cavity filling with aesthetic restoration."
+  },
+  {
+    "vi": "Loại bỏ cao răng và mảng bám.",
+    "count": 1,
+    "en": "Remove tartar and plaque."
+  },
+  {
+    "vi": "Khám và tư vấn tổng quát tình trạng răng miệng.",
+    "count": 1,
+    "en": "General oral health check-up and consultation."
+  },
+  {
+    "vi": "Đang tải...",
+    "count": 1,
+    "en": "Loading..."
+  },
+  {
+    "vi": "Đang tải…",
+    "count": 1,
+    "en": "Loading…"
+  },
+  {
+    "vi": "Ngày",
+    "count": 1,
+    "en": "Date"
+  },
+  {
+    "vi": "Giờ",
+    "count": 1,
+    "en": "Time"
+  },
+  {
+    "vi": "Đơn thuốc",
+    "count": 1,
+    "en": "Prescription"
+  },
+  {
+    "vi": "Họ và tên *",
+    "count": 1,
+    "en": "Full name *"
+  },
+  {
+    "vi": "Số điện thoại *",
+    "count": 1,
+    "en": "Phone number *"
+  },
+  {
+    "vi": "Dịch vụ *",
+    "count": 1,
+    "en": "Service *"
+  },
+  {
+    "vi": "Chọn bác sĩ (không bắt buộc)",
+    "count": 1,
+    "en": "Choose doctor (optional)"
+  },
+  {
+    "vi": "Đang tải danh sách bác sĩ…",
+    "count": 1,
+    "en": "Loading doctor list…"
+  },
+  {
+    "vi": "Ngày *",
+    "count": 1,
+    "en": "Date *"
+  },
+  {
+    "vi": "Giờ *",
+    "count": 1,
+    "en": "Time *"
+  },
+  {
+    "vi": "Phương thức thanh toán *",
+    "count": 1,
+    "en": "Payment method *"
+  },
+  {
+    "vi": "Xác nhận đặt lịch",
+    "count": 1,
+    "en": "Confirm appointment"
+  }
+]
+
