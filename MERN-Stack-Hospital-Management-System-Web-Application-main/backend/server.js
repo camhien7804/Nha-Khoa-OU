@@ -17,13 +17,15 @@ dotenv.config({ path: path.resolve(__dirname, "config.env") });
 const allowedOrigins = [
   process.env.FRONTEND_URL_ONE || "http://localhost:5173",
   process.env.FRONTEND_URL_TWO || "http://localhost:3000",
-  process.env.FRONTEND_URL_RENDER || "https://dental-clinic-5gnk.onrender.com"
+  process.env.FRONTEND_URL_RENDER // lấy giá trị từ .env trên Render
 ];
 
 const corsOptions = {
   origin: function (origin, callback) {
-    if (!origin) return callback(null, true); // Cho phép Postman
-    if (allowedOrigins.includes(origin)) return callback(null, true);
+    if (!origin) return callback(null, true); // Cho phép Postman / server-to-server
+    if (allowedOrigins.includes(origin) || origin.endsWith(".onrender.com")) {
+      return callback(null, true);
+    }
     console.warn(`❌ Blocked CORS request from: ${origin}`);
     return callback(new Error("Not allowed by CORS"));
   },
