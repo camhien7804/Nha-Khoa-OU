@@ -83,7 +83,7 @@ app.use(errorMiddleware);
 // serve frontend build khi deploy
 if (process.env.NODE_ENV === "production") {
   const __dirname = path.resolve();
-  const frontendPath = path.join(__dirname, "MERN-Stack-Hospital-Management-System-Web-Application-main/frontend/dist");
+  const frontendPath = path.join(__dirname, "../frontend/dist");
 
   app.use(express.static(frontendPath));
 
